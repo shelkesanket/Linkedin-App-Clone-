@@ -1,5 +1,7 @@
 # Project Link
 
-https://linkedin-clone-2dc4d.web.app/
+Visit- Login/Register with Dummy email and review it
 
-## Build from Sonny Sangha YouTube Tutorial LinkedIn Clone
+https://linkedin-clone-2d4ab.web.app/
+
+## Build - LinkedIn Clone
