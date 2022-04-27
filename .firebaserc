@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "linkedin-clone",
+    "build": "linkedin-clone-2d4ab"
+  },
+  "targets": {}
+}
